@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+</body>
+</html>
+<header>
+    <h1>Nama Lengkap</h1>
+    <p>Game Developer | Graphic Designer</p>
+</header>
+<nav>
+    <ul>
+        <li><a href="#biodata">Biodata</a></li>
+        <li><a href="#pendidikan">Pendidikan</a></li>
+        <li><a href="#skills">Skills</a></li>
+    </ul>
+</nav>
+<section id="biodata">
+    <h2>Biodata Diri</h2>
+    <p>Nama: Jerry liong</p>
+    <p>Email: jeriano21@gmail.com</p>
+    <!-- Tambahkan lebih banyak biodata -->
+</section>
+<section id="pendidikan">
+    <h2>Pendidikan</h2>
+    <ul>
+        <li>Sekolah Dasar Farol</li>
+        <li>Sekolah Menengah Pertama Colegio paulo VI</li>
+        <!-- Tambahkan lebih banyak pendidikan -->
+    </ul>
+</section>
+<section id="skills">
+    <h2>Skills</h2>
+    <p>HTML, CSS, JavaScript, Photoshop</p>
+    <!-- Tambahkan lebih banyak skills -->
+</section>
+<footer>
+    <p>Ikuti saya di social media: <a href="https://jerryliong_21.com/">Instagram</a>, <a
+href="https://Jerryliong.com/">Facebook</a></p>
+</footer>
+<style>
+       body {
+ font-family: Arial, sans-serif;
+}
+
+header {
+ background-color: #f0f0f0;
+ padding: 20px;
+ text-align: center;
+}
+
+nav ul {
+ list-style-type: none;
+ padding: 0;
+ text-align: center;
+}
+
+nav ul li {
+ display: inline;
+ margin-right: 20px;
+}
+
+nav ul li a {
+ text-decoration: none;
+ color: blue;
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+section {
+ margin: 20px 0;
+} 
+
+footer {
+ background-color: #f0f0f0;
+ padding: 10px;
+ text-align: center;
+}
+  
+  </style>
+
+section {
+ border: 1px solid #ddd;
+ padding: 15px;
+ margin: 20px 0;
+ box-shadow: 0 0 5px #aaa;
+}
